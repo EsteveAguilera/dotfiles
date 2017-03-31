@@ -1,3 +1,14 @@
+# My setup 
+
+<img width="992" alt="screenshot 2017-03-31 09 50 00" src="https://cloud.githubusercontent.com/assets/6932449/24541531/2d97cd30-15f8-11e7-8b80-734bfbc4db52.png">
+
+### iTerm2
+https://www.iterm2.com/
+
+* **Colors Preset:** Dark Background
+* **Font:** 14pt Source Code Pro for Powerline
+* **Non-ASCII Font:** 14pt Source Code Pro for Powerline
+
 ### oh-my-zsh
 https://github.com/robbyrussell/oh-my-zsh
 
