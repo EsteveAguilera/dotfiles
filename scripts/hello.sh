@@ -5,3 +5,4 @@ open -a SourceTree
 open -a /Applications/Android\ Studio.app
 open -a Slack
 open -a Telegram
+open -a skype
