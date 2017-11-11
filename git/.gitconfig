@@ -3,7 +3,7 @@
 	email = esteve@fewlaps.com
 
 [core]
-	excludesfile = /Users/Esteve/.gitignore_global
+	excludesfile = /Users/esteve/.gitignore_global
 	editor = nano
 	precomposeunicode = true
 	autocrlf = input
@@ -101,4 +101,4 @@
 	default = simple
 
 [commit]
-	template = /Users/Esteve/.stCommitMsg
+	template = /Users/esteve/.git_commit_template
