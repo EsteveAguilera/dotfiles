@@ -1,5 +1,7 @@
 # My setup
 
+<img src="zshrc_preview.png"/>
+
 ### iTerm2
 https://www.iterm2.com/
 
