@@ -43,3 +43,4 @@ export SCM_CHECK=true
 
 ## aliases & functions ##
 [[ -f "${HOME}/.config/bash/functions" ]] && source "${HOME}/.config/bash/functions"
+[[ -f "${HOME}/.config/bash/aliases" ]] && source "${HOME}/.config/bash/aliases"
