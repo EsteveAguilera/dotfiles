@@ -6,7 +6,7 @@ The talk is in Spanish, but you can see the slides [here](http://slides.com/edub
 
 Most of the configuration files are based on the [dotfiles repo](https://github.com/edubxb/dotfiles) from [@edubxb](https://github.com/edubxb)
 
-This configuration uses [Bash-it](https://github.com/Bash-it/bash-it).
+This configuration uses [Bash-it](https://github.com/Bash-it/bash-it) and [Powerline fonts](https://github.com/powerline/fonts)
 
 ## Special notes
 
