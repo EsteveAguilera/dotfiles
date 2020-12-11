@@ -32,3 +32,12 @@ Just type the next command:
 ```sh
 $ sudo xcode-select --install
 ```
+
+### ERROR: Cask 'XXXXXX' definition is invalid: invalid 'depends_on macos' value: unknown or unsupported macOS version: :XXXXX
+To fix, just run the command:
+
+```sh
+/usr/bin/find "$(brew --prefix)/Caskroom/"*'/.metadata' -type f -name '*.rb' -print0 | /usr/bin/xargs -0 /usr/bin/perl -i -pe 's/depends_on macos: \[.*?\]//gsm;s/depends_on macos: .*//g'
+```
+
+This will remove all `depends_on macos` references of installed casks (where it doesn’t matter anymore anyway)
